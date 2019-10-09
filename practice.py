@@ -1,3 +1,5 @@
+Commit changes to a local repo, push them to the server and them pull them to the other repo
+
 
 asodas
 
